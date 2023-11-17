@@ -5,4 +5,8 @@ amazon front design
 
 
 fashion page DESIGN.
+AND MY second project file name .
+fashion.html
+style.css
+
 
